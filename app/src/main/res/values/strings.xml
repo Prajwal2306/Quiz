@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="your_score">Your Score</string>
+    <string name="chethan_b">Chethan B</string>
+    <string name="httpsgithubcomchethan25">https://github.com/chethan25</string>
+    <string name="arbind_mahato">Arbind Mahato</string>
+    <string name="httpsgithubcomarbindmahato">https://github.com/arbindmahato</string>
+    <string name="quizapp">QuizApp</string>
+</resources>
